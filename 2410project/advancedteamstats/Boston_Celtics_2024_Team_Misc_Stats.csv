@@ -1,0 +1,24 @@
+Category,TeamR,Lg Rank,Year,Team
+W,64,1.0,Stats,Boston
+L,18,30.0,Stats,Boston
+PW,66,1.0,Stats,Boston
+PL,16,1.0,Stats,Boston
+MOV,11.34,29.0,Stats,Boston
+SOS,-0.6,1.0,Stats,Boston
+SRS,10.75,1.0,Stats,Boston
+ORtg,123.2,3.0,Stats,Boston
+DRtg,111.6,23.0,Stats,Boston
+NetRtg,11.6,1.0,Stats,Boston
+Pace,97.2,25.0,Stats,Boston
+FTr,0.224,2.0,Stats,Boston
+3PAr,0.471,12.0,Stats,Boston
+eFG%,0.578,2.0,Stats,Boston
+TOV%,10.8,2.0,Stats,Boston
+ORB%,24.9,21.0,Stats,Boston
+FT/FGA,0.18,2.0,Stats,Boston
+eFG%,0.523,29.0,Stats,Boston
+TOV%,10.8,11.0,Stats,Boston
+DRB%,76.3,1.0,Stats,Boston
+FT/FGA,-0.145,,Stats,Boston
+Arena,TD Garden,,Stats,Boston
+Attendance,"785,396",10.0,Stats,Boston
